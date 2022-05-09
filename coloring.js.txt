@@ -1,0 +1,7 @@
+	document.getElementById('num1).style.color= 'red';
+	
+	let listePq = document.getEnelementByTagName('p');
+	for (i=0; i<0;i<listeP.lenght; i++{
+	listeP[i].style.backgroundColor = 'blue';
+	listeP[i].style.color = 'white';
+	}

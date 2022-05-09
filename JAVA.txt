@@ -1,0 +1,18 @@
+let prenom="Pierre";
+let prenom="Marc";
+
+// provoquera une erreur car 
+
+
+
+COMMANDE IMPORTANTE dans la console : document.getElementById('num1')
+Alternative: document.getElementById('num1').textContent = "UN TEXTE UN PEU DIFFERENT."
+
+
+Le DOM
+Plusieurs manières pour accéder à un élément :
+	- document.getElementById('unId');
+	- document.getElementsByClassName('uneClasse')
+	- document.getElementsByName('uneValeurDeName');
+	- document.getElementsByTagName('unTag');
+exemple pour retourner la liste des éléments "p": 
