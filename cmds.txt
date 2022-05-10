@@ -1,0 +1,6 @@
+git init
+git config --global user.name "Adel"
+git config --global user.email "adel.bouzahar13@gmail.com"
+git status
+git add .
+git commit -m "Début du projet"

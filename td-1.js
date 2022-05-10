@@ -12,6 +12,7 @@ function AddText(){
 function AddText1(){
     if(txtToAdd.value!=='')
     {
+        // Ajout du contenu du input dans l'élément p.
         pList.innerText += txtToAdd.value+'\n';
         // pList.innerText = pList.innerText + txtToAdd.value+'\n'
         txtToAdd.value = '';
@@ -27,4 +28,4 @@ function updateArray(){
 for(let i=0; i< myArray.length; i++){
     pArray.innerText += myArray[i]+'\n';
     }
-}
+} 
